@@ -1,0 +1,10 @@
+Success criteria
+“Gut feeling” and reliance on the so-called “best practices” of designers and UX practitioners rules in a traditional redesign. While the team may be talented, no batter hits .1000 and many of their changes are likely to hurt website results. With ESR, every change is measured in controlled A/B/n split tests against its effect on business goals.
+The RSR approach leaves your website lacking and continuously falling behind in the intervals between major redesigns. But, with ESR, your website will continuously keep up and surpass the success of the rest of the web.
+
+ESR essentially uses conversion rate optimization principles to redesign your site.
+
+How ESR Eliminates Epic Website Redesigns
+By adopting the evolutionary site redesign approach you can guard against website redesign risks while dramatically improving your website every day.
+
+0 check the code tasks to be done:
